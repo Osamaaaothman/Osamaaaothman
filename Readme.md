@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://portfolio-inky-zeta-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/osama3mmar"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/osamaaothman"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
