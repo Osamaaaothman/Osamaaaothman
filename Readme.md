@@ -1,58 +1,74 @@
-# Osama Othman
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:6366f1&text=Osama%20Othman&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%40thechangecue&descAlignY=58&descSize=20"/>
 
-Full Stack Developer with 1+ years of experience building responsive, scalable web applications. Passionate about crafting clean, efficient code and delivering seamless user experiences across frontend and backend technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=React+%26+TypeScript+frontends;.NET+Core+%26+Node.js+APIs;Clean+architecture+%7C+SOLID+%7C+shipping+fast"/>
+</p>
 
----
-
-## Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-
-### Backend & Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Tools & Best Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4A90E2?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-FF6B6B?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge)
+<p align="center">
+  <a href="https://portfolio-inky-zeta-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/osama3mmar"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Palestine%20%F0%9F%87%B5%F0%9F%87%B8-0f172a?style=for-the-badge"/>
+</p>
 
 ---
 
-## About Me
+### 👋 About
 
-I'm a Full Stack Developer focused on building modern, responsive web applications with clean architecture and best practices. I work with the latest technologies to deliver scalable solutions that work seamlessly across all devices. My expertise spans frontend design and user experience, combined with robust backend systems that power reliable applications.
+I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)** with a Computer Engineering degree from An-Najah National University. I build web apps end to end: responsive React/TypeScript frontends on top of clean **.NET Core** and **Node.js** APIs, backed by SQL databases.
 
-I'm passionate about writing maintainable code, following SOLID principles, and constantly improving my craft through learning and building real-world projects.
+- 🚀 Building production apps and shipping features that real users rely on
+- 🧱 Focused on clean architecture, REST APIs, Entity Framework and SOLID principles
+- 🔭 Exploring: Supabase, React Native, real-time apps
+- 🤝 Open to collaborations and interesting problems
 
----
+### 🛠️ Tech stack
 
-## Let's Connect
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui,vite,figma"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python,cpp,c"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mssql,supabase"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,postman"/>
+    </td>
+  </tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Osamaaaothman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamaaothman/)
+### 📌 Featured work
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://portfolio-inky-zeta-78.vercel.app) | JavaScript |
+| [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Plot / real-estate frontend — [live](https://saudi-plot-frontend.vercel.app) | JavaScript |
+| [**Dental_Clinic**](https://github.com/Osamaaaothman/Dental_Clinic) | Clinic website — [live](https://dental-clinic-gray-nine.vercel.app) | JavaScript |
+| [**AI-Maze-Solver**](https://github.com/Osamaaaothman/AI-Maze-Solver) | Maze solving with search algorithms | JavaScript |
+| [**TTS_Training_Backend**](https://github.com/Osamaaaothman/TTS_Training_Backend) | Shop backend API | C# / .NET |
+| [**TTS_Frontend_Shop**](https://github.com/Osamaaaothman/TTS_Frontend_Shop) | Shop frontend | React |
 
-*Open to collaborations and exciting projects. Let's build something amazing together!*
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Osamaaaothman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaaaothman&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Osamaaaothman&theme=tokyonight&hide_border=true"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:0f172a&section=footer"/>
