@@ -48,7 +48,7 @@ I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)
 | [**gweb-merchant-onboarding**](https://github.com/Osamaaaothman/gweb-merchant-onboarding) | Merchant onboarding & underwriting intake layer with OpenAPI docs, tests, CI and infrastructure-as-code | C# / .NET, React, AWS |
 | [**Dental_Clinic**](https://github.com/Osamaaaothman/Dental_Clinic) | Full-stack clinic management system for multiple clinics — [live](https://dental-clinic-gray-nine.vercel.app) | React, Node/Express, Supabase |
 | [**NoteNest**](https://github.com/Osamaaaothman/NoteNest) | Notion-style notes app with layered backend and JWT auth | React, Express, MySQL |
-| [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Bilingual (Arabic/English) plot marketplace with maps and Stripe checkout — [live](https://saudi-plot-frontend.vercel.app) | React 19, Supabase, MapLibre |
+| [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Bilingual (Arabic/English) guided flow from plot document to generated design with a 3D result view, maps and Stripe checkout — [live](https://saudi-plot-frontend.vercel.app) | React 19, Supabase, MapLibre |
 | [**KASHOP-Frontend-Mobile**](https://github.com/Osamaaaothman/KASHOP-Frontend-Mobile) | Mobile shopping app | React Native, Expo |
 | [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://portfolio-inky-zeta-78.vercel.app) | React, Framer Motion |
 
