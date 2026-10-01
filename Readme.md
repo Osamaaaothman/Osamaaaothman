@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://portfolio-inky-zeta-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/osama3mmar"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Palestine%20%F0%9F%87%B5%F0%9F%87%B8-0f172a?style=for-the-badge"/>
 </p>
 
 ---
@@ -26,27 +25,19 @@ I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui,vite,figma"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui,vite,figma"/></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python,cpp,c"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python,cpp,c"/></td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mssql,supabase"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mssql,supabase"/></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,postman"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,postman"/></td>
   </tr>
 </table>
 
@@ -54,12 +45,12 @@ I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://portfolio-inky-zeta-78.vercel.app) | JavaScript |
-| [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Plot / real-estate frontend — [live](https://saudi-plot-frontend.vercel.app) | JavaScript |
-| [**Dental_Clinic**](https://github.com/Osamaaaothman/Dental_Clinic) | Clinic website — [live](https://dental-clinic-gray-nine.vercel.app) | JavaScript |
-| [**AI-Maze-Solver**](https://github.com/Osamaaaothman/AI-Maze-Solver) | Maze solving with search algorithms | JavaScript |
-| [**TTS_Training_Backend**](https://github.com/Osamaaaothman/TTS_Training_Backend) | Shop backend API | C# / .NET |
-| [**TTS_Frontend_Shop**](https://github.com/Osamaaaothman/TTS_Frontend_Shop) | Shop frontend | React |
+| [**gweb-merchant-onboarding**](https://github.com/Osamaaaothman/gweb-merchant-onboarding) | Merchant onboarding & underwriting intake layer with OpenAPI docs, tests, CI and infrastructure-as-code | C# / .NET, React, AWS |
+| [**Dental_Clinic**](https://github.com/Osamaaaothman/Dental_Clinic) | Full-stack clinic management system for multiple clinics — [live](https://dental-clinic-gray-nine.vercel.app) | React, Node/Express, Supabase |
+| [**NoteNest**](https://github.com/Osamaaaothman/NoteNest) | Notion-style notes app with layered backend and JWT auth | React, Express, MySQL |
+| [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Bilingual (Arabic/English) plot marketplace with maps and Stripe checkout — [live](https://saudi-plot-frontend.vercel.app) | React 19, Supabase, MapLibre |
+| [**KASHOP-Frontend-Mobile**](https://github.com/Osamaaaothman/KASHOP-Frontend-Mobile) | Mobile shopping app | React Native, Expo |
+| [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://portfolio-inky-zeta-78.vercel.app) | React, Framer Motion |
 
 ### 📊 GitHub stats
 
