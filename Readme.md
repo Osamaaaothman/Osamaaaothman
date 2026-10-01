@@ -33,7 +33,7 @@ I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mssql,supabase"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
