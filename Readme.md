@@ -13,7 +13,7 @@
 
 ### 👋 About
 
-I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)** with a Computer Engineering degree from An-Najah National University. I build web apps end to end: responsive React/TypeScript frontends on top of clean **.NET Core** and **Node.js** APIs, backed by SQL databases.
+I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)** with a Computer Engineering background, based in **Riyadh, Saudi Arabia** 🇸🇦. I build web apps end to end: responsive React/TypeScript frontends on top of clean **.NET Core** and **Node.js** APIs, backed by SQL databases.
 
 - 🚀 Building production apps and shipping features that real users rely on
 - 🧱 Focused on clean architecture, REST APIs, Entity Framework and SOLID principles
