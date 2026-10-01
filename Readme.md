@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-inky-zeta-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://os4ma.me"><img src="https://img.shields.io/badge/Portfolio-visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/osamaaothman"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -50,7 +50,7 @@ I'm a **Full Stack Developer at [@thechangecue](https://github.com/thechangecue)
 | [**NoteNest**](https://github.com/Osamaaaothman/NoteNest) | Notion-style notes app with layered backend and JWT auth | React, Express, MySQL |
 | [**Saudi-Plot-Frontend**](https://github.com/Osamaaaothman/Saudi-Plot-Frontend) | Bilingual (Arabic/English) guided flow from plot document to generated design with a 3D result view, maps and Stripe checkout — [live](https://saudi-plot-frontend.vercel.app) | React 19, Supabase, MapLibre |
 | [**KASHOP-Frontend-Mobile**](https://github.com/Osamaaaothman/KASHOP-Frontend-Mobile) | Mobile shopping app | React Native, Expo |
-| [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://portfolio-inky-zeta-78.vercel.app) | React, Framer Motion |
+| [**Portfolio**](https://github.com/Osamaaaothman/Portfolio) | My personal site — [live](https://os4ma.me) | React, Framer Motion |
 
 ### 📊 GitHub stats
 
